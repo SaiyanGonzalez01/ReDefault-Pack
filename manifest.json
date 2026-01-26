@@ -27,18 +27,8 @@
   ],
   "subpacks": [
     {
-      "folder_name": "subpack_3",
-      "name": "Subpack 3",
-      "memory_tier": 1
-    },
-    {
-      "folder_name": "subpack_2",
-      "name": "Subpack 2",
-      "memory_tier": 1
-    },
-    {
-      "folder_name": "subpack_1",
-      "name": "Subpack 1",
+      "folder_name": "programmermix",
+      "name": "Programmer Mix",
       "memory_tier": 1
     }
   ]
