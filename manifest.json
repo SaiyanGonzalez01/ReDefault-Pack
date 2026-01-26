@@ -1,15 +1,15 @@
 {
     "format_version": 2,
     "header": {
-        "description": "A personal pack made by Saiyan Gonzalez to tweak a few things for Minecraft Bedrock Edition.",
-        "name": "ReDefault",
+        "description": "Minecraft reimagined... with ReDefault.",
+        "name": "ReDefault Pack",
         "uuid": "e279a0f7-480e-466f-a174-b6e0011dea32",
         "version": [0, 0, 4],
         "min_engine_version": [ 1, 21, 110 ]
     },
     "modules": [
         {
-            "description": "A personal pack made by Saiyan Gonzalez to tweak a few things for Minecraft Bedrock Edition.",
+            "description": "Minecraft reimagined.. with ReDefault.",
             "type": "resources",
             "uuid": "609f3ada-efb9-4040-b82a-8cea4d6f33e6",
             "version": [0, 0, 3]
