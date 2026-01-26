@@ -15,4 +15,31 @@
             "version": [0, 0, 3]
         }
     ]
+    "settings": [
+    {
+      "type": "label",
+      "text": "Descriptions can be added to the subpack screen by adding a \"label\" setting in the manifest. Unfortunately, these cannot be translated."
+    },
+    {
+      "type": "label",
+      "text": "You can separate your description into multiple paragraphs by adding a second \"label\" object in the settings array."
+    }
+  ],
+  "subpacks": [
+    {
+      "folder_name": "subpack_3",
+      "name": "Subpack 3",
+      "memory_tier": 1
+    },
+    {
+      "folder_name": "subpack_2",
+      "name": "Subpack 2",
+      "memory_tier": 1
+    },
+    {
+      "folder_name": "subpack_1",
+      "name": "Subpack 1",
+      "memory_tier": 1
+    }
+  ]
 }
