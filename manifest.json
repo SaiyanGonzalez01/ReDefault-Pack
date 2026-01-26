@@ -18,14 +18,23 @@
     "settings": [
     {
       "type": "label",
-      "text": "Descriptions can be added to the subpack screen by adding a \"label\" setting in the manifest. Unfortunately, these cannot be translated."
+      "text": "Standard Default - The vanilla of this resource pack. Reimagined modern textures galore."
     },
     {
       "type": "label",
-      "text": "You can separate your description into multiple paragraphs by adding a second \"label\" object in the settings array."
+      "text": "Programmer Mix - Built for the Programmer Art texture pack. Reimagined classic textures for old people."
     }
+    {
+      "type": "label",
+      "text": "Alpha Comeback - For REAL old people. Reimagined modern textures to fit Alpha!"
+    },
   ],
   "subpacks": [
+    {
+      "folder_name": "default",
+      "name": "Standard ReDefault",
+      "memory_tier": 1
+    },
     {
       "folder_name": "programmermix",
       "name": "Programmer Mix",
