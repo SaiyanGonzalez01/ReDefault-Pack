@@ -33,12 +33,12 @@
     {
       "folder_name": "default",
       "name": "Standard ReDefault",
-      "memory_tier": 1
+      "memory_tier": 2
     },
     {
       "folder_name": "programmermix",
       "name": "Programmer Mix",
-      "memory_tier": 2
+      "memory_tier": 1
     }
   ]
 }
